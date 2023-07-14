@@ -12,9 +12,9 @@ function Navbar(props) {
 <div>
      <div className="w-11/12 max-w-[1160px] mx-auto flex flex-row justify-between items-center py-5">
         {/* Logo */}
-        <div className='text-4xl text-center font-mono' >
+        <div className='text-3xl text-center font-mono' >
         <Link to="/">
-         <HighLightText text={"EliteCoding.."}/>
+         <HighLightText text={"EliteCoding"}/>
         </Link>
         </div>
 
